@@ -1,13 +1,12 @@
-# Hi, I'm Tony Vu 👋
+# Hi, I'm Tony Vu 👋👋
 
-Welcome to my GitHub! I'm a **Computer Science** student at Bowling Green State University, focusing on **Computational Data Science**. With a passion for **machine learning**, **software engineering**, and **AI**, I'm always eager to learn and build impactful projects.
+Welcome to my GitHub! I'm a **Computer Science** student at Bowling Green State University, with **Computational Data Science** Specialization. With a passion for **machine learning**, **software and AI engineering**, I'm always eager to learn and build impactful projects.
 
 ## 🚀 What I'm Currently Working On
 
 
-- **AgentDa**: A multi-agent sýtem that helps student stay ahead of their assignment deadlines by fetching their Canvas information and suggest study schedule. (I reallyyy hope this is helpful)
+- **AgentDa**: A multi-agent system that helps student stay ahead of their assignment deadlines by fetching their Canvas information and suggest study schedule. (I reallyyy hope this is helpful)
 - **CryptoSense**: A multi-agent that helps you stay update with Crypto market information.
-- **Power BI Financial Dashboards**: Designing and optimizing production-grade data pipelines with Python & SQL, enabling scalable analytics.
 - **RAG system with cars data**: Developing AI chatbots using Hugging Face Transformers to enhance user interactions.
 - **TinyTerms.ai**: An education website that explain complex terms like you're five
 
@@ -46,6 +45,8 @@ Welcome to my GitHub! I'm a **Computer Science** student at Bowling Green State 
 ## 🌐 Let's Connect!
 
 - **LinkedIn**: [Tony Vu](https://linkedin.com/in/lam-an-bao-vu)
+- **Instagram**: [Instaaa](https://www.instagram.com/_.blam/)
+- **Terminal Portfolio**: [My Terminal Portfolio](https://lamvu.netlify.app)
 - **Portfolio**: [Tony Vu's Portfolio](https://lamvuportfolio.netlify.app)
 - **GitHub**: [@LamVu22](https://github.com/LamVu22)
 - **Email**: lamv@bgsu.edu or my personal email *vuanbaolam@gmail.com*
