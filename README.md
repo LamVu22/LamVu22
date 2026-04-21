@@ -65,10 +65,10 @@ Welcome to my GitHub! I'm a **Computer Science** student at Bowling Green State 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): [Tony Vu](https://linkedin.com/in/lam-an-bao-vu)
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white): [Instaaa](https://www.instagram.com/_.blam/)
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-: [@LamVu22](https://github.com/LamVu22)
+: [My Github](https://github.com/LamVu22)
 - ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white): [My Discord](https://discord.com/users/708718760776826912)
 - **Terminal Portfolio**: [My Terminal Portfolio](https://lamvu.netlify.app)
-- **Portfolio**: [Tony Vu's Portfolio](https://lamvuportfolio.netlify.app)
+- **Portfolio**: [Portfolio](https://lamvuportfolio.netlify.app)
 - **Email**: lamv@bgsu.edu or my personal email *vuanbaolam@gmail.com*
 
 Feel free to reach out if you're interested in collaborating, learning together, or just want to chat about tech! 😄
