@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at Bowling Green State 
 - **TinyTerms.ai**: An education website that explain complex terms like you're five
 - Learning Java and Bankend Development
 
-## 🛠️ Tech Stack
+## 🛠️ What I use (and learning..)
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
