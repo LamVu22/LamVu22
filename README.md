@@ -1,7 +1,8 @@
 # Hi, I'm Tony Vu 👋👋
 
 Welcome to my GitHub! I'm a **Computer Science** student at Bowling Green State University, with **Computational Data Science** Specialization. With a passion for **machine learning**, **software and AI engineering**, I'm always eager to learn and build impactful projects.
-
+I'm currently aiming to grow into AI Engineering field like RAG, building AI agents and workflows. 
+I love to bring my skills to help enterprises boost productivity and revenue by automating repetitive processes.
 ## 🚀 What I'm Currently Working On
 
 
